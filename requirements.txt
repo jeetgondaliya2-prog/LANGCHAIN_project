@@ -5,7 +5,7 @@ langgraph
 langchain-openai
 langchain-google-genai
 langchain-groq
-langchain-mistralai
+langchain-mistralai 
 python-dotenv
 faiss-cpu
 tiktoken
