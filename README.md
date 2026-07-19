@@ -1,4 +1,4 @@
- # 🚀 LANGCHAIN Project
+# 🚀 LANGCHAIN Project
 
 > A beginner-friendly collection of LangChain examples demonstrating different Chat Models and Embedding Models using Python.
 
